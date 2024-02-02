@@ -1,6 +1,9 @@
 # SWIS
 Self Watering Irrigation System
 
+The cause:
+The gardening market is a $3.6 billion dollar industry in Australia alone (https://www.ibisworld.com/au/industry/gardening-services/676/) and with climbing water prices and initiatives needed for saving water, this multipurpose tool was born. Rather than wasting water by watering plants daily, this will assess the soil health and the plants in accordance and provide water if needed. Similarly, it is capable of irragating plants and particular set times, monitoring and giving data about multiple plants health.
+
 Description: This item has been designed to be used as a self-watering system that checks different factors of the soils health and waters the plants in the particular areas accordingly. These factors are soil health, pH and temperature. The hubs which consist of the hardware which manage this system can be connected remotely via a central app which communicates information about the zones the hubs are placed in. 
 
 Apparatus:
